@@ -1,2 +1,2 @@
 # basic-html-skills
-A game designed to teach basic HTML programming skills.
+Un juego diseñado para enseñar habilidades básicas de programación HTML.
